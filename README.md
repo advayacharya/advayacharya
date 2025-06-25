@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Advay 👋</h1>
+<h1 align="center">Hi, I'm Advay </h1>
 
 <p align="center">
   Aspiring SOC Analyst | Cybersecurity Enthusiast | Python & Wireshark Learner
