@@ -1,37 +1,41 @@
 <h1 align="center">Hi, I'm Advay </h1>
 
 <p align="center">
-  Aspiring SOC Analyst | Cybersecurity Enthusiast | Python & Wireshark Learner
+  Aspiring SOC Analyst | Cybersecurity Enthusiast 
 </p>
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🎓 Completed the **Google Cybersecurity Certificate**
-- 🕵️ Hands-on experience with **Wireshark** and **network analysis**
-- 🛡️ Exploring **SOC Analyst workflows**, threat detection, and packet inspection
-- 💻 Currently building small projects to automate security tasks
-- 🔍 Interested in log analysis, alerts, packet parsing, and incident response
-
----
-
-### 🧰 Skills & Tools
-
-- **Security Tools**: Wireshark 
-- **Languages**: Python (for scripting and automation)  
-- **Certifications**: Google Cybersecurity Professional Certificate  
-- **Others**: TCP/IP basics, IP geolocation, SOC fundamentals, Git, Linux
+-  Completed the **Google Cybersecurity Certificate**
+-  Hands-on experience with **Wireshark** and **network analysis**
+-  Exploring **SOC Analyst workflows**, threat detection, and packet inspection
+-  Currently building tools to automate security tasks and malware triaging
+-  Interested in log analysis, alerts, packet parsing, and incident response
 
 ---
 
-### 📌 Featured Projects
+###  Skills & Tools
 
-#### 🔹 [Network IP Geolocation Mapper]
-> Used Wireshark to capture 8,000+ packets and mapped the top 10 external IPs to their geolocations using Python and Google Earth. Integrated APIs for public IP lookup and automated KML generation for visualization.
+- **Security Tools**: Wireshark, YARA, Andoguard, Vipermonkaey
+- **Languages**: Python (Scripting and Automation)
+- **Certifications**: Google Cybersecurity Professional Certificate
+- **Others**: TCP/IP, IP geolocation, SOC fundamentals, Git, Linux
 
-### 📫 Connect With Me
+---
+
+###  Featured Projects
+
+####  [AudioSafe](https://github.com/advayacharya/audio-safe)
+> A Python-based utility for securing sensitive audio files. Implements **AES-256 encryption** for end-to-end protection, featuring a secure local vault and user authentication to prevent unauthorized access to private recordings.
+
+####  [Network IP Geolocation Mapper](https://github.com/advayacharya/network-geo-mapper)
+> Captured 8,000+ packets via **Wireshark** and mapped external IPs to geolocations using Python. Integrated public IP APIs and automated **KML generation** for visual tracking in Google Earth.
+
+---
+
+###  Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/advay-acharya-1154b1294/)
-- 📧 Email: acharyaxdvay16@gmail.com
-
+-  Email: acharyaxdvay16@gmail.com
