@@ -1,41 +1,32 @@
-<h1 align="center"> Advay Acharya </h1>
+# Hi there 👋, I'm Advay Acharya
 
-<p align="center">
-  Aspiring SOC Analyst | Cybersecurity Enthusiast 
-</p>
+## 🚀 About Me
+I’m a B.Tech student with a strong interest in Cybersecurity, especially in areas like  privacy, and building practical security tools. I enjoy creating projects that solve real-world problems and demonstrate hands-on technical skills rather than just theoretical concepts.
 
----
 
-###  About Me
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/advay-acharya/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:acharyaxdvay16@gmail.com) 
 
--  Completed the **Google Cybersecurity Certificate**
--  Hands-on experience with **Wireshark** and **network analysis**
--  Exploring **SOC Analyst workflows**, threat detection, and packet inspection
--  Currently building tools to automate security tasks and malware triaging
--  Interested in log analysis, alerts, packet parsing, and incident response
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
----
 
-###  Skills & Tools
+## 🧠 What I Do
+- 🔐 Build security-focused tools and applications
+- 🌐 Work on web-based cybersecurity platforms
+- 📊 Explore GRC (Governance, Risk & Compliance) concepts and tools
+- 🧪 Practice ethical hacking and vulnerability assessment
 
-- **Security Tools**: Wireshark, YARA, Andoguard, Vipermonkaey
-- **Languages**: Python (Scripting and Automation)
-- **Certifications**: Google Cybersecurity Professional Certificate
-- **Others**: TCP/IP, IP geolocation, SOC fundamentals, Git, Linux
+## 📂 Featured Projects
 
----
+### 🔒 [AudioSafe](https://advay01.pythonanywhere.com/)
+A secure vault system using AES-256 encryption to safely store sensitive audio files locally.
 
-###  Featured Projects
+### 🧹 [EXIF Data Scrubber]("Shredder") (https://pixelscrub.vercel.app/)
+A web tool that reveals hidden metadata (like GPS coordinates) from images and allows users to remove it for privacy.
 
-####  [AudioSafe](https://github.com/advayacharya/audio-safe)
-> A Python-based utility for securing sensitive audio files. Implements **AES-256 encryption** for end-to-end protection, featuring a secure local vault and user authentication to prevent unauthorized access to private recordings.
+### 🛡️ [Control Mapping Engine](https://controlcross.vercel.app/)
+A web-based GRC tool that maps controls across frameworks like ISO 27001, SOC 2, and GDPR to identify overlaps and gaps.
 
-####  [Network IP Geolocation Mapper](https://github.com/advayacharya/network-geo-mapper)
-> Captured 8,000+ packets via **Wireshark** and mapped external IPs to geolocations using Python. Integrated public IP APIs and automated **KML generation** for visual tracking in Google Earth.
-
----
-
-###  Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/advay-acharya-1154b1294/)
--  Email: acharyaxdvay16@gmail.com
+## 📜 Certifications
+- Cybersecurity Certificate (Coursera)
